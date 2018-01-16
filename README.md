@@ -22,13 +22,13 @@ The weight to be returned is the weight that the human on that index has on his 
   * SpringBootTest was used to test Rest ( see: WeightControllerTests ) 
   * Junit with '@Parameters' was used to test the different algorithms. ( see: HumanWeightStrategyTest ) 
 
-**Production ready**
+###Production ready
 
 Solution is production ready from the following perspective:
   
   **Logging:** 
   slf4j was used for logging.
-  debug level can be configured in the application.properties as such:
+  Debug level can be configured in the application.properties as such:
     
     logging.level.org.springframework.web=INFO
     logging.level.com.example=DEBUG
@@ -45,7 +45,8 @@ Solution is production ready from the following perspective:
   Spring beans are configurable using the `spring-beans.xml` configuration files.
     
   **Error Handeling:**
-  New Exceptions were created to handle specific application exceptions. ( see in package 'com.example.pyramid.services.exception' )
+  New Exceptions were created to handle specific application exceptions. (see in package 'com.example.pyramid.services.exception')
+  
   HTTP response code were updated according the exception. ( see: 'GlobalExceptionHandlingControllerAdvice' class )
     
   **Testing:**
