@@ -22,7 +22,7 @@ The weight to be returned is the weight that the human on that index has on his 
   * SpringBootTest was used to test Rest ( see: WeightControllerTests ) 
   * Junit with '@Parameters' was used to test the different algorithms. ( see: HumanWeightStrategyTest ) 
 
-###Production ready
+### Production ready
 
 Solution is production ready from the following perspective:
   
