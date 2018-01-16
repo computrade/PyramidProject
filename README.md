@@ -42,7 +42,7 @@ Solution is production ready from the following perspective:
     pyramid.human.weight = 50
     
   **Spring Configuration:**
-  Spring beans are configurable using the `spring-beans.xml` configuration files.
+  Spring beans are configurable using the `spring-beans.xml` configuration file.
     
   **Error Handeling:**
   New Exceptions were created to handle specific application exceptions. (see in package 'com.example.pyramid.services.exception')
