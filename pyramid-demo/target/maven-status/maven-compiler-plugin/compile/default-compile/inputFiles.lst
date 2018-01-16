@@ -1,0 +1,13 @@
+C:\workspces\pyramid\complete\src\main\java\com\example\pyramid\services\config\PropertyConfig.java
+C:\workspces\pyramid\complete\src\main\java\com\example\pyramid\services\Application.java
+C:\workspces\pyramid\complete\src\main\java\com\example\pyramid\PyramidWeightImpl.java
+C:\workspces\pyramid\complete\src\main\java\com\example\pyramid\services\exception\GlobalExceptionHandlingControllerAdvice.java
+C:\workspces\pyramid\complete\src\main\java\com\example\pyramid\algorithm\BetterIterativeHumanEdgeWeightStrategy.java
+C:\workspces\pyramid\complete\src\main\java\com\example\pyramid\algorithm\HumanEdgeWeightStrategy.java
+C:\workspces\pyramid\complete\src\main\java\com\example\pyramid\services\WeightController.java
+C:\workspces\pyramid\complete\src\main\java\com\example\pyramid\services\exception\PyramidWrongIndexException.java
+C:\workspces\pyramid\complete\src\main\java\com\example\pyramid\services\exception\PyramidBadRequestException.java
+C:\workspces\pyramid\complete\src\main\java\com\example\pyramid\services\WeightResponse.java
+C:\workspces\pyramid\complete\src\main\java\com\example\pyramid\services\exception\PyramidWrongLevelException.java
+C:\workspces\pyramid\complete\src\main\java\com\example\pyramid\algorithm\IterativeHumanEdgeWeightStrategy.java
+C:\workspces\pyramid\complete\src\main\java\com\example\pyramid\algorithm\RecursiveHumanEdgeWeightStrategy.java
